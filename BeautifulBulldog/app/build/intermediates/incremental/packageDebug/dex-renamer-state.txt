@@ -1,0 +1,7 @@
+#Wed Sep 27 17:48:50 CDT 2017
+base.0=C\:\\Users\\Tom\\AndroidStudioProjects\\BeautifulBulldog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f69919d7829c4de8d8f969ec5e91e100c35ea9cd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Tom\\AndroidStudioProjects\\BeautifulBulldog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0736a0014eb2ffed122d12fecbdbb5c81ae1ba3e\\classes.dex
+base.1=C\:\\Users\\Tom\\AndroidStudioProjects\\BeautifulBulldog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0736a0014eb2ffed122d12fecbdbb5c81ae1ba3e
+file.0=C\:\\Users\\Tom\\AndroidStudioProjects\\BeautifulBulldog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f69919d7829c4de8d8f969ec5e91e100c35ea9cd\\classes.dex

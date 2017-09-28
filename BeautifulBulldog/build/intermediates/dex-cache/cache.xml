@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\40bef54e6e617fb83810c14334a2ae184da03b1c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaec2da9541795178b596695240105277b1fa23b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\7b9dad9405a102ffb8930fc80751b4a22539c3d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3198c0ecfcbaef6a9d526cc590603f3fec6d60dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0736a0014eb2ffed122d12fecbdbb5c81ae1ba3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\53dbbb2fcee2012dfa9ab454b3e48274ca70767a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_920bc1086abf631813db29886afddceae2f29004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_aedfe2f57d785906c0ac833226252556bdc9af45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\16ca0669211b73515c0719f848d99bd73cc3303d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_177ef54dd633a51bb277be29d0d97b60fb91c8fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\108d80ee3e5209e7def8e5eccdecb6df87122ad4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56d6a46d216aeaf3211c61ad57970df29dd1b670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\e724ed61719b7d5d087b55ed169c1cf98ae67026\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f3289147a178c3437f20956bfb890a0806870d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_041295cc6d34615ce7c66e29b514040889e20384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\db6f78bf949e7d44bc77e9015c9e3c6a0c057919\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc77a7cf3010c7adc6ff762215cfb68cec44eb14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\445470e5c48334237d9e15e02b4503d55fa810ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88aab5c6f5561742ab53a58b822abe1fd28a1592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\f55cdc3db0cf073e758f194f9135b07c1bda2045\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9b984ae7c67fb028dec14ed17bdff0c44b0ffe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4902b6108a16d5d51b18836bcd16b9d713283ec4">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f69919d7829c4de8d8f969ec5e91e100c35ea9cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Tom\AndroidStudioProjects\BeautifulBulldog\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f73550548f11db9858aec565ae9906beed71713e\classes.dex" />
+    </item>
+
+</items>
