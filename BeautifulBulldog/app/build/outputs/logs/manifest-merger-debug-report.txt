@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tom\.android\build-cache\40bef54e6e617fb83810c14334a2ae184da03b1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Tom\.android\build-cache\f55cdc3db0cf073e758f194f9135b07c1bda2045\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tom\.android\build-cache\445470e5c48334237d9e15e02b4503d55fa810ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Tom\.android\build-cache\53dbbb2fcee2012dfa9ab454b3e48274ca70767a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Tom\.android\build-cache\db6f78bf949e7d44bc77e9015c9e3c6a0c057919\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Tom\.android\build-cache\16ca0669211b73515c0719f848d99bd73cc3303d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Tom\.android\build-cache\e724ed61719b7d5d087b55ed169c1cf98ae67026\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Tom\.android\build-cache\108d80ee3e5209e7def8e5eccdecb6df87122ad4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tom\.android\build-cache\7b9dad9405a102ffb8930fc80751b4a22539c3d6\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.tom.beautifulbulldog.LoginActivity
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.tom.beautifulbulldog.BulldogListActivity
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:19:9-57
+	android:name
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:19:19-54
+activity#com.example.tom.beautifulbulldog.BulldogActivity
+ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml:20:19-50
+uses-sdk
+INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tom\.android\build-cache\40bef54e6e617fb83810c14334a2ae184da03b1c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Tom\.android\build-cache\f55cdc3db0cf073e758f194f9135b07c1bda2045\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tom\.android\build-cache\445470e5c48334237d9e15e02b4503d55fa810ce\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Tom\.android\build-cache\53dbbb2fcee2012dfa9ab454b3e48274ca70767a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Tom\.android\build-cache\db6f78bf949e7d44bc77e9015c9e3c6a0c057919\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Tom\.android\build-cache\16ca0669211b73515c0719f848d99bd73cc3303d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Tom\.android\build-cache\e724ed61719b7d5d087b55ed169c1cf98ae67026\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Tom\.android\build-cache\108d80ee3e5209e7def8e5eccdecb6df87122ad4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tom\.android\build-cache\7b9dad9405a102ffb8930fc80751b4a22539c3d6\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tom\AndroidStudioProjects\BeautifulBulldogTutorialTwo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tom\.android\build-cache\40bef54e6e617fb83810c14334a2ae184da03b1c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Tom\.android\build-cache\f55cdc3db0cf073e758f194f9135b07c1bda2045\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tom\.android\build-cache\445470e5c48334237d9e15e02b4503d55fa810ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Tom\.android\build-cache\53dbbb2fcee2012dfa9ab454b3e48274ca70767a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Tom\.android\build-cache\db6f78bf949e7d44bc77e9015c9e3c6a0c057919\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Tom\.android\build-cache\16ca0669211b73515c0719f848d99bd73cc3303d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Tom\.android\build-cache\e724ed61719b7d5d087b55ed169c1cf98ae67026\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Tom\.android\build-cache\108d80ee3e5209e7def8e5eccdecb6df87122ad4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Tom\.android\build-cache\709d2bb3ad2a974e0fa0e1fe1bc0dd3d536a4952\output\AndroidManifest.xml:26:9-47
